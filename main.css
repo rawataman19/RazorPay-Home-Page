@@ -1,3 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.sec-2 {
+    background-image: url('./images/feature-section-2BG.svg');
+}
